@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sayani Mitra! 👋
 
-<!--
-**SayaniDev/SayaniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+📊 Excel | SQL | Python | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 My Learning Journey
+- Learning Data Analytics
+- Practicing SQL and Python
+- Building Power BI dashboards
+- Working on real-world data projects
+
+### 🎯 My Goal
+Turning data into meaningful insights
+and growing as a Data Analyst.
+
+✨ Learn • Build • Grow 🚀
